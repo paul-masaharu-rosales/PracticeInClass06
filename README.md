@@ -1,3 +1,4 @@
 # Practice in class 6
 Paul Rosales 
-Readme initial commit
+
+REadme recomint second time w error
