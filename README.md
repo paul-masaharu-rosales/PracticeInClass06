@@ -1,4 +1,5 @@
 # Practice in class 6
 Paul Rosales 
+Readme third commit 
 
-REadme recomint second time w error
+34953893
